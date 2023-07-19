@@ -1,5 +1,4 @@
 
-## Background
 Marketing is crucial for the growth and sustainability of retail business. Marketers can help build the company’s brand, engage
 customers, grow revenue, and increase sales.
 
@@ -39,5 +38,5 @@ Retail company with extensive data on their customers for theduration of 2.5 yea
 
 ## Methodology
 - K-means
-- Autoencoders
 - PCA
+- Autoencoders
